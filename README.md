@@ -83,7 +83,7 @@ Do home teams in the Brasileirão have a competitive advantage?
 
 ## 🙋 About Me
 
-My name is **Felipe**, a Computer Programming student with a passion for football and data science. I created this project to demonstrate my analytical skills and pursue internship opportunities in data analysis or sports tech.
+I'm a Computer Programming student fueled by a deep enthusiasm for both football and data science. This project showcases my analytical skills, developed through academic study and self-driven exploration. It reflects my strong interest in uncovering insights at the intersection of sports and data.
 
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/felipe-mattos-630557274)
 
