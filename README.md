@@ -47,6 +47,22 @@ Do home teams in the Brasileirão have a competitive advantage?
 
 ---
 
+## 📊 Key Visualizations
+
+### ⚽ Win Distribution
+
+![Home vs Away Win Distribution]("C:\Users\felip\Downloads\brasileirao-home-advantage\home_win_distribution.png")
+
+### 📈 Home Win Rate Over Time
+
+![Home Win Rate Trend]("C:\Users\felip\Downloads\brasileirao-home-advantage\Home_win_trend.png")
+
+### 🏟️ Top Home Teams
+
+![Top Home Teams]("C:\Users\felip\Downloads\brasileirao-home-advantage\top_home_teams.png")
+
+---
+
 ## 📂 Project Structure
 
 | Folder        | Description                              |
