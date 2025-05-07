@@ -2,8 +2,6 @@
 
 This project analyzes match data from the Brazilian football league, **Brasileirão**, to investigate whether teams truly benefit from playing at home.
 
-> ⚽️ Goal: Showcase strong data analysis skills for internship applications by answering a real-world sports analytics question.
-
 ---
 
 ## 📊 Project Overview
